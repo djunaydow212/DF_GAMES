@@ -1,0 +1,7 @@
+import time
+
+print('DF Games Presents')
+time.sleep(2)
+print('DF Games Production')
+time.sleep(2)
+print('Lost in Space')
